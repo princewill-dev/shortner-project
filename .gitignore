@@ -1,4 +1,4 @@
 .env
-env/
-core/__pycache__/
-shortener/__pycache__/
+db.sqlite3
+core/__pycache__
+onboarding/__pycache__
