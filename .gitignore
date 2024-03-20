@@ -1,4 +1,4 @@
-.env
+core/.env
 db.sqlite3
 core/__pycache__
 onboarding/__pycache__
